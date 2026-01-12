@@ -1,6 +1,6 @@
-# 🏦 Bank Loan Data Analysis by Swasthik BS
+# 🏦 Lending Risk & Default Pattern Analysis by Swasthik BS
 
-The **Bank Loan Analysis Dashboard** focuses on identifying factors that influence **loan repayment and defaults**, helping financial institutions enhance decision-making in loan approvals and risk management.  
+The **Lending Risk & Default Pattern Analysis** focuses on identifying factors that influence **loan repayment and defaults**, helping financial institutions enhance decision-making in loan approvals and risk management.  
 
 ## 📌 Overview  
 - Analyze borrower demographics, credit history, and repayment patterns.  
