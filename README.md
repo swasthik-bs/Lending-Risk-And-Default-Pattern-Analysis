@@ -36,8 +36,8 @@ The **Lending Risk & Default Pattern Analysis** focuses on identifying factors t
 ## 📸 Dashboard Previews  
 
 ### 📊 Loan Dashboard  
-![Bank Dashboard](./bank-dashboard.png)  
- 
+<img width="1296" height="641" alt="Lending Risk   Default Pattern Analysis" src="https://github.com/user-attachments/assets/9705a613-f3b2-45f2-b1c4-65ecfb81093e" />
+
 ## 📂 Repository Contents  
 - `Bank Loan Analysis.pbix` → Power BI dashboard  
 - `Finance_1.csv` & `Finance_2.xlsx` → Datasets  
