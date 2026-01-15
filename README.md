@@ -20,7 +20,8 @@ The project focuses on building a **data model, cleaning raw data**, and visuali
 ---
 
 ## 🧰 Tools & Technologies  
-- **Power BI** – Dashboard creation and visualization  
+- **Power BI** – Dashboard creation and visualization
+- **Pyrhon** – Numpy and  pandas for  data cleaning  
 - **Microsoft Excel / CSV** – Dataset management  
 - **DAX** – For custom calculations and KPIs  
 
