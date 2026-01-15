@@ -1,49 +1,88 @@
 # 🏦 Lending Risk & Default Pattern Analysis 
 
-The **Lending Risk & Default Pattern Analysis** focuses on identifying factors that influence **loan repayment and defaults**, helping financial institutions enhance decision-making in loan approvals and risk management.  
-
-## 📌 Overview  
-- Analyze borrower demographics, credit history, and repayment patterns.  
-- Visualize loan approval statistics, repayment success, and default risk.  
-- Support data-driven improvements in lending strategies.  
-
-## 📈 Key Insights  
-- **Borrower Behavior** → Strong correlation between employment length, credit history, and repayment success.  
-- **Risk Factors** → High debt-to-income ratios and frequent past delinquencies predict higher loan default.  
-- **Verification Status** → Verified borrowers showed better repayment trends.  
-- **Home Ownership** → Loan repayment varied significantly with home ownership type.  
-
-## 📊 Dashboard KPIs & Analysis  
-✔ Year-wise loan amount analysis  
-✔ Grade & sub-grade wise revolving balance (revol_bal)  
-✔ Total payment vs. verification status  
-✔ Loan status breakdown by year & month  
-✔ Last payment date statistics by home ownership  
+The **Lending Risk & Default Pattern Analysis** focuses on identifying factors that influence **loan repayment and defaults**, helping financial institutions enhance decision-making in loan approvals and risk management and an interactive Power BI dashboard analyzing loan approval trends, repayment status, and applicant demographics using real-world banking data.   This project visualizes key business insights to help financial institutions make data-driven lending decisions and understand customer patterns.
 
 
-## 🚀 Recommendations  
-- **Risk Assessment** → Incorporate identified risk factors into loan approval workflows.  
-- **Monitoring** → Enhance tracking of high-risk borrowers to prevent defaults.  
-- **Data Utilization** → Continuously refine lending policies using ongoing analytics.  
+## 📌 Project Overview  
+The **Bank Loan Analytics Dashboard** explores key metrics around loan applications, approvals, and borrower profiles.  
+By leveraging Power BI’s dynamic visualization and DAX measures, this dashboard uncovers patterns that influence loan approval decisions — such as **income, gender, education, and property area.**
 
+The project focuses on building a **data model, cleaning raw data**, and visualizing **approval rates, income analysis, and demographic trends** to support strategic decision-making in the banking sector.
 
-## 🛠️ Tech Stack  
-- **Power BI** → Data Visualization  
-- **Excel** → Data Cleaning & Preprocessing  
-- **SQL (Finance_Query.sql)** → Data Extraction & Analysis  
-- **CSV/XLSX** → Data Sources  
+---
 
-## 📸 Dashboard Previews  
+## 🎯 Objectives  
+- Identify factors influencing **loan approval and rejection**  
+- Analyze **income and education trends** across approved and rejected applications  
+- Compare **loan amount distributions** by demographics  
+- Visualize **key KPIs** like total applications, approval rate, and average loan amount  
 
-### 📊 Loan Dashboard  
-<img width="1296" height="641" alt="Lending Risk   Default Pattern Analysis" src="https://github.com/user-attachments/assets/9705a613-f3b2-45f2-b1c4-65ecfb81093e" />
+---
 
-## 📂 Repository Contents  
-- `Bank Loan Analysis.pbix` → Power BI dashboard  
-- `Finance_1.csv` & `Finance_2.xlsx` → Datasets  
-- `Finance_Query.sql` → SQL queries for loan analysis  
-- `README.md` → Documentation  
-- Dashboard screenshots (`bank-dashboard.png`, `Excel Bank loan.png`)  
+## 🧰 Tools & Technologies  
+- **Power BI** – Dashboard creation and visualization  
+- **Microsoft Excel / CSV** – Dataset management  
+- **DAX** – For custom calculations and KPIs  
+
+---
+
+## 🗂️ Dataset Information  
+**Dataset:** Kaggle Loan Data  
+
+| Column Name | Description |
+|--------------|-------------|
+| `Loan_ID` | Unique identifier for each loan |
+| `Gender` | Applicant gender |
+| `Married` | Marital status of applicant |
+| `Dependents` | Number of dependents |
+| `Education` | Applicant education level |
+| `Self_Employed` | Employment type |
+| `ApplicantIncome` | Applicant’s income |
+| `CoapplicantIncome` | Co-applicant’s income |
+| `LoanAmount` | Loan amount requested |
+| `Loan_Amount_Term` | Duration of loan |
+| `Property_Area` | Urban/Rural/Semiurban |
+| `Loan_Status` | Loan approval status (Y/N) |
+
+---
+
+## 📊 Dashboard Insights  
+
+### 🔹 1. Loan Approval Overview  
+- Donut Chart showing **approved vs. rejected loans**  
+- KPI Cards showing **Total Applications, Approved Loans, and Approval Rate**  
+
+### 🔹 2. Income & Loan Amount Relationship  
+- Scatter plot visualizing **Applicant Income vs. Loan Amount**  
+- Insights on how **income level** influences **loan approval chances**  
+
+### 🔹 3. Education & Employment Analysis  
+- Bar Chart: **Education Level vs. Loan Approval**  
+- Clustered chart comparing **Self-Employed vs. Salaried applicants**  
+
+### 🔹 4. Property Area Trends  
+- Map or bar chart highlighting **loan approvals by property area**  
+
+### 🔹 5. Demographic Breakdown  
+- Gender and marital status comparison for approved loans  
+- Average loan amount per demographic group  
+
+---
+
+## 🧠 Key Insights
+
+Overall Approval Rate: Most loans are approved for applicants with higher incomes and graduates.
+
+Property Area Influence: Urban areas show higher approval rates compared to rural regions.
+
+Gender Distribution: Male applicants dominate, but female applicants show higher repayment consistency.
+
+Education & Employment: Graduates and salaried individuals are more likely to receive approvals.
+
+## ✅ Conclusion
+
+The dashboard highlights that income stability, education level, and urban residency are key factors influencing loan approval.
+By analyzing these metrics, financial institutions can improve their risk assessment and ensure fair, data-driven lending decisions.  
 
 ## 📬 Contact
 For queries or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/swasthik-bs).
