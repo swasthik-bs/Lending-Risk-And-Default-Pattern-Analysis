@@ -89,7 +89,7 @@ The dashboard highlights that income stability, education level, and urban resid
 By analyzing these metrics, financial institutions can improve their risk assessment and ensure fair, data-driven lending decisions.  
 
 ## 📬 Contact
-For queries or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/swasthik-bs).
+ [LinkedIn](https://www.linkedin.com/in/swasthik-bs).
 
 
 
