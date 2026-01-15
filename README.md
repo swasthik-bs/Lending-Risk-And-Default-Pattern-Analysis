@@ -31,7 +31,7 @@ The project focuses on building a **data model, cleaning raw data**, and visuali
 ## 🗂️ Dataset Information  
 <img width="854" height="371" alt="Bank Loan Analytics Dashboard" src="https://github.com/user-attachments/assets/bb55ecd3-7b01-4f16-9f38-edc998eb030b" />
 
-**Dataset:** Kaggle Loan Data  
+**Dataset:** Kaggle Loan Data and Finance data 
 
 | Column Name | Description |
 |--------------|-------------|
