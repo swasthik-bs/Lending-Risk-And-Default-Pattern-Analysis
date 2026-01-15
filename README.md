@@ -1,9 +1,9 @@
-# 🏦 Lending Risk & Default Pattern Analysis 
+#  Lending Risk & Default Pattern Analysis 
 
 The **Lending Risk & Default Pattern Analysis** focuses on identifying factors that influence **loan repayment and defaults**, helping financial institutions enhance decision-making in loan approvals and risk management and an interactive Power BI dashboard analyzing loan approval trends, repayment status, and applicant demographics using real-world banking data.   This project visualizes key business insights to help financial institutions make data-driven lending decisions and understand customer patterns.
 
 
-## 📌 Project Overview  
+##  Project Overview  
 The **Bank Loan Analytics Dashboard** explores key metrics around loan applications, approvals, and borrower profiles.  
 By leveraging Power BI’s dynamic visualization and DAX measures, this dashboard uncovers patterns that influence loan approval decisions — such as **income, gender, education, and property area.**
 
@@ -11,7 +11,7 @@ The project focuses on building a **data model, cleaning raw data**, and visuali
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 - Identify factors influencing **loan approval and rejection**  
 - Analyze **income and education trends** across approved and rejected applications  
 - Compare **loan amount distributions** by demographics  
@@ -19,7 +19,7 @@ The project focuses on building a **data model, cleaning raw data**, and visuali
 
 ---
 
-## 🧰 Tools & Technologies  
+## Tools & Technologies  
 - **Power BI** – Dashboard creation and visualization
 - **Python** – Numpy and  pandas for  data cleaning
 - SQl-  database 
@@ -28,7 +28,7 @@ The project focuses on building a **data model, cleaning raw data**, and visuali
 
 ---
 
-## 🗂️ Dataset Information  
+## Dataset Information  
 <img width="854" height="371" alt="Bank Loan Analytics Dashboard" src="https://github.com/user-attachments/assets/bb55ecd3-7b01-4f16-9f38-edc998eb030b" />
 
 **Dataset:** Kaggle Loan Data and Finance data 
@@ -50,7 +50,7 @@ The project focuses on building a **data model, cleaning raw data**, and visuali
 
 ---
 
-## 📊 Dashboard Insights  
+##Dashboard Insights  
 
 ### 🔹 1. Loan Approval Overview  
 - Donut Chart showing **approved vs. rejected loans**  
@@ -73,7 +73,7 @@ The project focuses on building a **data model, cleaning raw data**, and visuali
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 Overall Approval Rate: Most loans are approved for applicants with higher incomes and graduates.
 
@@ -83,7 +83,7 @@ Gender Distribution: Male applicants dominate, but female applicants show higher
 
 Education & Employment: Graduates and salaried individuals are more likely to receive approvals.
 
-## ✅ Conclusion
+## Conclusion
 
 The dashboard highlights that income stability, education level, and urban residency are key factors influencing loan approval.
 By analyzing these metrics, financial institutions can improve their risk assessment and ensure fair, data-driven lending decisions.  
