@@ -1,4 +1,4 @@
-# 🏦 Lending Risk & Default Pattern Analysis by Swasthik BS
+# 🏦 Lending Risk & Default Pattern Analysis 
 
 The **Lending Risk & Default Pattern Analysis** focuses on identifying factors that influence **loan repayment and defaults**, helping financial institutions enhance decision-making in loan approvals and risk management.  
 
